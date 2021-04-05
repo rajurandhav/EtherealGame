@@ -1,4 +1,4 @@
-# Ethereal Game ♦ Wisdom of the Aliens
+# Ethereal Game ⬘ Wisdom of the Aliens
 Explore the Mystical World of Ethereum in a zero anxiety Simulation!
 ---
 Designed using Adobe XD
